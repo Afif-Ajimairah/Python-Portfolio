@@ -18,7 +18,7 @@ Welcome to my Python personal portfolio! This repository serves as a centralized
 ### 2. project1.py
 * **Description:** A Python-based number-guessing game that uses a loop and conditional logic to provide feedback on guesses, track attempts, and determine when the correct number is successfully identified.
 * **Key Features:** Fitur utama 1, Fitur utama 2.
-* **How to Run:** `project1.py`
+* **How to Run:** `python3 project1.py`
 
 ## 🛠️ How to Clone and Run Locally
 
