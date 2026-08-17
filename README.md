@@ -12,12 +12,12 @@ Welcome to my Python personal portfolio! This repository serves as a centralized
 
 ### 1. PythonInLinux1.py
 * **Description:** A Python-based interactive text adventure game that allows players to create a character, make choices, progress through time, receive rewards, and encounter story-driven challenges.
-* **Key Features:** Fitur utama 1, Fitur utama 2.
+* **Key Features:** Character creation, Interactive story & choices.
 * **How to Run:** `python3 PythonInLinux1.py`
 
 ### 2. project1.py
 * **Description:** A Python-based number-guessing game that uses a loop and conditional logic to provide feedback on guesses, track attempts, and determine when the correct number is successfully identified.
-* **Key Features:** Fitur utama 1, Fitur utama 2.
+* **Key Features:** Guess Feedback System, Attempt Tracking.
 * **How to Run:** `python3 project1.py`
 
 ## 🛠️ How to Clone and Run Locally
